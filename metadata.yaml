@@ -1,0 +1,36 @@
+_repo: The-Sunny-Side-of-IrelandHow-to-see-it-by-the-Great-Southern-and-Western-Railway_19329
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Praeger, Robert Lloyd
+    birthdate: 1865
+    deathdate: 1953
+    gutenberg_agent_id: '8598'
+    url: http://www.gutenberg.org/2009/agents/8598
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Lloyd_Praeger
+covers:
+- cover_type: archival
+  image_path: 19329-h/images/imgcover.jpg
+creator:
+  author:
+    agent_name: O'Mahony, John
+    birthdate: 1816
+    deathdate: 1877
+    gutenberg_agent_id: '8597'
+    url: http://www.gutenberg.org/2009/agents/8597
+description: ''
+gutenberg_issued: '2006-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19329'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Guidebooks'
+- !lcc 'DA'
+title: 'The Sunny Side of Ireland
+
+  How to see it by the Great Southern and Western Railway'
+url: http://www.gutenberg.org/ebooks/19329
